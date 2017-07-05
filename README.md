@@ -1,2 +1,3 @@
 # hello-world
 In this repository we will learn the in's and outs of github.
+My name is Joseph Dahlberg, I was born in Palm Beach, Florida and lived there until the age of 13 when I moved to Michigan. I lived in Michigan until I was 18 and came to Arizona to be reintroduced into my fathers life (he left Florida when I was 5 years of age). I have been with my GF for 8.5 years and we both have 1 child from previous relationships. I have a condo in South Scottsdale next to the SkySong development created in part with ASU. I am looking forward to a position with Ring.com and feel that this site will help show them the level of dedication I am willing to take to be the best Tech Community Support Agent they have in the United States of America.
